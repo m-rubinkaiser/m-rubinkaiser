@@ -15,14 +15,69 @@
 
 - Welcome to the README file for m-rubinkaiser! This document provides an overview of my journey as a Computer Science student, highlighting my interests, skills, and projects.
 
-- I'm M Rubin Kaiser, a Computer Science student currently pursuing my degree at ERODE ARTS AND SCIENCE COLLEGE. My passion for technology and problem-solving drives my academic pursuits and personal projects.
+- I'm Rubin Kaiser M, a recent graduate with a Bachelor's degree in Computer Science from Erode Arts And Science. Throughout my academic journey, I've developed a strong foundation in various areas of computer science, and I'm enthusiastic about applying my knowledge to real-world challenges.
 
 <h3>🔬 skills</h3>
+
 - language
-<!-- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
- -->
+
+
+![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+    ![Golang](https://img.shields.io/badge/Golang%20-green.svg?style=for-the-badge&logo=go&logoColor=black)&nbsp;
+
+- frontend
+  
+![Html](https://img.shields.io/badge/Html%20-red.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+    ![Css](https://img.shields.io/badge/Css%20-blue.svg?style=for-the-badge&logo=css3&logoColor=black)&nbsp;
+        ![React](https://img.shields.io/badge/React%20-darkblue.svg?style=for-the-badge&logo=react&logoColor=black)&nbsp;
+<br>
+
+<h3><img style="height:20px;" src="https://cdn-icons-png.flaticon.com/512/4187/4187336.png"> Social media</h3>
+<br>
+
+<div >
+
+<ul>
+
+<li>
+<a href="https://linkedin.com/in/m-rubinkaiser" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  rubinkaiser-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
+</a>
+</li>
+
+<br>
+<li>
+<a href="https://facebook.com/m-rubinkaiser" target="_blank">
+<img src="https://img.shields.io/badge/facebook:  rubinkaiser-0077B5.svg?color=darkblue&style=for-the-badge&logo=linkedin&logoColor=white" alt=facebook/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="https://twitter.com/m-rubinkaiser" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  rubinkaiser-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="mailto:m.rubinkaiser.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  rubinkaiser-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail/>
+</a>
+</li>
+	
+</ul>
+</div>
+
+<br>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
+
 
 <h3>🔍 Github Level</h3> 
 
@@ -35,7 +90,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-rubinkaiser&theme=tokyonight"></p><br>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+  [![Rubin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m-rubinkaiser&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   <h3 align="left">Credits : <a href="https://github.com/0xabdul">Rubin Kaiser...</h3>
-    <h3 align="left">Last Edited On:16/05/2024</h3>
+    <h3 align="left">Last Edited On:17/05/2024</h3>
     
