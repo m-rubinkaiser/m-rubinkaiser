@@ -40,7 +40,7 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/m-rubinkaiser" target="_blank">
+<a href="https://www.linkedin.com/in/rubinkaiser" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  rubinkaiser-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
 </a>
 </li>
@@ -55,7 +55,7 @@
 <br>
 
 <li>
-<a href="https://twitter.com/m-rubinkaiser" target="_blank">
+<a href="https://twitter.com/m_rubinkaiser" target="_blank">
 <img src="https://img.shields.io/badge/twitter:  rubinkaiser-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter/>
 </a>
 </li>
@@ -63,7 +63,7 @@
 <br>
 
 <li>
-<a href="mailto:m.rubinkaiser.com" target="_blank">
+<a href="mailto:m.rubinkaiser@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  rubinkaiser-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail/>
 </a>
 </li>
