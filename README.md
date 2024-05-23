@@ -93,6 +93,6 @@
 
   [![Rubin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m-rubinkaiser&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-  <h3 align="left">Credits : <a href="https://github.com/0xabdul">Rubin Kaiser...</h3>
+  <h3 align="left">Credits : <a href="https://github.com/m-rubinkaiser">Rubin Kaiser...</h3>
     <h3 align="left">Last Edited On:17/05/2024</h3>
     
