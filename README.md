@@ -1,13 +1,11 @@
 <h1 align="center">
   <b>
-    Hi there 
-    <img height="30px" wight="30" 
-      src="blob:https://www-towrco-in.filesusr.com/64e4b11a-0c20-496c-b35a-61e39e40c585"> 
+    Hi there
     it's me Rubin Kaiser M
   </b>
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&background=88838200&center=true&random=false&width=435&lines=welcome+to+my+github+profile;computer+science+student" >
+  <img src="blob:https://www-towrco-in.filesusr.com/64e4b11a-0c20-496c-b35a-61e39e40c585" >
 </p>
 <img align="right" width="370" height="290" src="https://miro.medium.com/v2/resize:fit:1358/1*VMmvImch6VU5pc2VktY1uw.gif">
 
