@@ -1,96 +1,92 @@
 <h1 align="center">
-  <b>
-    Hi there
-    it's me Rubin Kaiser M
-  </b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Rubin%20Kaiser%20M&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </h1>
+
 <p align="center">
-  <img src="blob:https://www-towrco-in.filesusr.com/64e4b11a-0c20-496c-b35a-61e39e40c585" >
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Graduate;Full+Stack+Developer;Python+%26+Golang+Enthusiast;Always+learning+something+new!&font=Fira%20Code&center=true&width=440&height=45&color=51F565&vCenter=true&size=22" />
 </p>
-<img align="right" width="370" height="290" src="https://miro.medium.com/v2/resize:fit:1358/1*VMmvImch6VU5pc2VktY1uw.gif">
+
+<p align="center">
+  <img align="right" width="370" height="290" src="https://miro.medium.com/v2/resize:fit:1358/1*VMmvImch6VU5pc2VktY1uw.gif">
+</p>
 
 ### 🧑🏻 ABOUT ME
-
-- Welcome to the README file for m-rubinkaiser! This document provides an overview of my journey as a Computer Science student, highlighting my interests, skills, and projects.
-
+- Welcome to the README file for **m-rubinkaiser**! This document provides an overview of my journey as a Computer Science student, highlighting my interests, skills, and projects.
 - I'm Rubin Kaiser M, a recent graduate with a Bachelor's degree in Computer Science from Erode Arts And Science. Throughout my academic journey, I've developed a strong foundation in various areas of computer science, and I'm enthusiastic about applying my knowledge to real-world challenges.
 
-<h3>🔬 skills</h3>
+<br clear="right"/>
 
-- language
+### 🔬 Skills
 
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-    ![Golang](https://img.shields.io/badge/Golang%20-green.svg?style=for-the-badge&logo=go&logoColor=black)&nbsp;
+![Golang](https://img.shields.io/badge/Golang%20-green.svg?style=for-the-badge&logo=go&logoColor=black)&nbsp;
 
-- frontend
-  
+**Frontend**
+
 ![Html](https://img.shields.io/badge/Html%20-red.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-    ![Css](https://img.shields.io/badge/Css%20-blue.svg?style=for-the-badge&logo=css3&logoColor=black)&nbsp;
-        ![React](https://img.shields.io/badge/React%20-darkblue.svg?style=for-the-badge&logo=react&logoColor=black)&nbsp;
-<br>
-
-<h3><img style="height:20px;" src="https://cdn-icons-png.flaticon.com/512/4187/4187336.png"> Social media</h3>
-<br>
-
-<div >
-
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/rubinkaiser" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  rubinkaiser-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
-</a>
-</li>
-
-<br>
-<li>
-<a href="https://facebook.com/m-rubinkaiser" target="_blank">
-<img src="https://img.shields.io/badge/facebook:  rubinkaiser-0077B5.svg?color=darkblue&style=for-the-badge&logo=linkedin&logoColor=white" alt=facebook/>
-</a>
-</li>
+![Css](https://img.shields.io/badge/Css%20-blue.svg?style=for-the-badge&logo=css3&logoColor=black)&nbsp;
+![React](https://img.shields.io/badge/React%20-darkblue.svg?style=for-the-badge&logo=react&logoColor=black)&nbsp;
 
 <br>
 
-<li>
-<a href="https://twitter.com/m_rubinkaiser" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  rubinkaiser-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter/>
-</a>
-</li>
+<h3 align="center">
+  <img style="height:20px;" src="https://cdn-icons-png.flaticon.com/512/4187/4187336.png"> Social Media
+</h3>
 
-<br>
+<div align="center">
 
-<li>
-<a href="mailto:m.rubinkaiser@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  rubinkaiser-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail/>
-</a>
-</li>
-	
-</ul>
+[![Linkedin Badge](https://img.shields.io/badge/-rubinkaiser-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubinkaiser)](https://www.linkedin.com/in/rubinkaiser)
+[![Facebook Badge](https://img.shields.io/badge/-rubinkaiser-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://facebook.com/m-rubinkaiser)](https://facebook.com/m-rubinkaiser)
+[![Twitter Badge](https://img.shields.io/badge/-rubinkaiser-00acee?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/m_rubinkaiser)](https://twitter.com/m_rubinkaiser)
+[![Gmail Badge](https://img.shields.io/badge/-rubinkaiser-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:m.rubinkaiser@gmail.com)](mailto:m.rubinkaiser@gmail.com)
+
 </div>
 
-<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
+<h3 align="center">🔍 GitHub Level</h3>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-rubinkaiser&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m-rubinkaiser&show_icons=true&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-rubinkaiser&theme=tokyonight">
+</p>
 
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-rubinkaiser&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" alt="Rubin's github activity graph"/>
+  </a>
+</p>
 
-<h3>🔍 Github Level</h3> 
+<!--
+  🐍 SNAKE GAME CONTRIBUTION GRAPH
+  This is the biggest "wow" animation on GitHub profiles: a snake that
+  eats your contribution graph squares. It needs a tiny GitHub Actions
+  workflow to generate the SVG automatically every day — instructions below.
+-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/m-rubinkaiser/m-rubinkaiser/output/github-contribution-grid-snake.svg" alt="snake-game contribution graph"/>
+</p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-<h1 align="center"<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-rubinkaiser&theme=tokyonight" /></p><br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=m-rubinkaiser&color=51f565&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-rubinkaiser&show_icons=true&theme=tokyonight" /></p><br>
+<h3 align="center">Credits: <a href="https://github.com/m-rubinkaiser">Rubin Kaiser...</a></h3>
+<h3 align="center">Last Edited On: 17/05/2024</h3>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-rubinkaiser&theme=tokyonight"></p><br>
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-  [![Rubin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m-rubinkaiser&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-  <h3 align="left">Credits : <a href="https://github.com/m-rubinkaiser">Rubin Kaiser...</h3>
-    <h3 align="left">Last Edited On:17/05/2024</h3>
-    
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
