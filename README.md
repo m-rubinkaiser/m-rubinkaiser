@@ -16,6 +16,8 @@
 
 <br clear="right"/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+
 ### 🔬 Skills
 
 **Languages**
@@ -29,7 +31,14 @@
 ![Css](https://img.shields.io/badge/Css%20-blue.svg?style=for-the-badge&logo=css3&logoColor=black)&nbsp;
 ![React](https://img.shields.io/badge/React%20-darkblue.svg?style=for-the-badge&logo=react&logoColor=black)&nbsp;
 
-<br>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,go,html,css,react,git,github,vscode&theme=dark" />
+  </a>
+</p>
+<sub>↳ click any icon to jump to its docs</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 <h3 align="center">
   <img style="height:20px;" src="https://cdn-icons-png.flaticon.com/512/4187/4187336.png"> Social Media
@@ -43,40 +52,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-rubinkaiser-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:m.rubinkaiser@gmail.com)](mailto:m.rubinkaiser@gmail.com)
 
 </div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-<h3 align="center">🔍 GitHub Level</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-rubinkaiser&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-rubinkaiser&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-rubinkaiser&theme=tokyonight">
-</p>
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-rubinkaiser&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" alt="Rubin's github activity graph"/>
-  </a>
-</p>
-
-<!--
-  🐍 SNAKE GAME CONTRIBUTION GRAPH
-  This is the biggest "wow" animation on GitHub profiles: a snake that
-  eats your contribution graph squares. It needs a tiny GitHub Actions
-  workflow to generate the SVG automatically every day — instructions below.
--->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/m-rubinkaiser/m-rubinkaiser/output/github-contribution-grid-snake.svg" alt="snake-game contribution graph"/>
-</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
